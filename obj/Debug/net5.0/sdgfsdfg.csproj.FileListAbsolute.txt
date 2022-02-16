@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.exe
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.deps.json
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.runtimeconfig.json
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.dll
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\ref\sdgfsdfg.dll
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\bin\Debug\net5.0\sdgfsdfg.pdb
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.dll
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\ref\sdgfsdfg.dll
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.pdb
+C:\Users\k.patel61\Desktop\comsci 30\sdgfsdfg\obj\Debug\net5.0\sdgfsdfg.genruntimeconfig.cache
